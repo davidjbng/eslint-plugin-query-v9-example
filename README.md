@@ -8,6 +8,13 @@
 
 ## To run this example
 
+In ./query/packages/eslint-plugin-query:
+
+- `pnpm install`
+- `pnpm build`
+
+In this repository:
+
 - `npm install`
 - `npm run dev`
 
